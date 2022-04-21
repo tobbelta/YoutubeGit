@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'youtubeApp3'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ADCA539637C74BB4A1EB5F10B124F9B5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_16EF732E66DC4886B98256E458ED2F16 }}
           package: .
